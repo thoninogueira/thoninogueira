@@ -1,5 +1,5 @@
 
-- 👋 Oi, tudo bem? Sou Antonio José Nogueira Pereira, mais conhecido como (@thoninogueira) estudante de Ciências da Computação na Unopar e participante da trilha do programa One da Oracle. Meu objetivo é explorar a tecnologia e me comprometer com a aprendizagem contínua e a inovação.
+- 👋 Oi, tudo bem? Sou Antonio José Nogueira Pereira, mais conhecido como (@thoninogueira) estudante de Ciências da Computação na FAM (Faculdade das Américas) e ex-aluno da trilha do programa One da Oracle. Meu objetivo é explorar a tecnologia e me comprometer com a aprendizagem contínua e a inovação.
   
 - 🌱 Minha trajetória profissional inclui vários projetos e desafios desenvolvidos durante os cursos da Alura. No repositório "Challenge-portfolio", criei um portfólio pessoal   para exibir meus trabalhos e habilidades. Desenvolvi o "Jogo-do-Número-Secreto", um jogo interativo que reforça meus conhecimentos em JavaScript e lógica de programação.
   
